@@ -1,6 +1,7 @@
 line1
 
-line in between....
-line22
+line
+line2
 
 written by psc
+changes by vims
